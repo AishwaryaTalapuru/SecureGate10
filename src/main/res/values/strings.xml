@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecureGate</string>
+    <string name="button_send">Send Notification</string>
+    <string name="title_activity_display_message">Message Sent</string>
+    <string name="title_activity_invite__friends">Invite_Friends</string>
+    <string name="title_activity_maintenance">Maintenance</string>
+</resources>
